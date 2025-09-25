@@ -2,7 +2,7 @@
 
 # 🥗 Digestive Simulation
 
-> An interactive Rich-powered simulator of human digestion, metabolism, and the gut microbiome.
+###### *An interactive Rich-powered simulator of human digestion, metabolism, and the gut microbiome.*
 
 ---
 
@@ -38,13 +38,6 @@ The simulation tracks:
   * Live-updating panel (instead of spamming new prints).
   * Progress bar and spinner per stage.
   * Status indicators for hormones, environment, and conditions.
-* **User controls**:
-
-  * ⏸ Pause / Resume
-  * ⏭ Skip to next stage
-  * ⚡ Toggle health conditions (e.g. diabetes, GERD)
-  * 🔄 Adjust stress or body temperature
-* **Fallback non-Rich mode** if the terminal doesn’t support Rich.
 
 ---
 
@@ -72,11 +65,6 @@ Run the program with:
 ```bash
 python GutFlow.py
 ```
-
-During simulation, you can interact with the program using keyboard controls.
-
----
-
 ## 📊 Example Output
 
 The terminal shows a single **live-updating panel** with:
@@ -86,9 +74,7 @@ The terminal shows a single **live-updating panel** with:
 * Microbiome balance (good vs. bad bacteria)
 * Environmental conditions (stress, temperature)
 * Health conditions status
-
-*(screenshot placeholder here if you want to add one later)*
-
+* 
 ---
 
 ## 📜 License
@@ -107,6 +93,6 @@ This project is not yet complete and is old. If you see a bug, you can report it
 If you have new ideas, suggestions, or want to get in touch:
 
 * **Email**: [lloydlewizzz@gmail.com](mailto:lloydlewizzz@gmail.com)
-* **Discord**: `lloydlewizzz`
+* **Discord**: `lloydlewizzz` 
 
 ---
